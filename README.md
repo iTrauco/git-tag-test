@@ -2,4 +2,6 @@ git tag test
 
 test tag something
 
-third tag test
+third tag tes
+
+anotated tag test1t
