@@ -10,3 +10,5 @@ anotated tag test2
 
 anotated tag test3
 anotated tag test4
+
+git tag test5
